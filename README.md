@@ -7,13 +7,13 @@ I make a Blinkit Data Analysis Dashboard using Power BI that visualizes key metr
 ## Dashboard
 ![Screenshot 2025-04-03 223639](https://github.com/user-attachments/assets/200dc6da-40b5-448f-8807-fa418bbde097)
 ## Project Insight
--#Total Sales: $1.20M, with the highest contributions from fruits, snacks, and household items.
+-Total Sales: $1.20M, with the highest contributions from fruits, snacks, and household items.
 
- -#Outlet Performance: Tier 3 outlets have the highest number of sales, followed by Tier 2 and Tier 1.
+ -Outlet Performance: Tier 3 outlets have the highest number of sales, followed by Tier 2 and Tier 1.
 
--#Outlet Growth: There was a peak establishment around 2018 ($205K sales), followed by a decline but stable sales post-2020.
+-Outlet Growth: There was a peak establishment around 2018 ($205K sales), followed by a decline but stable sales post-2020.
 
--#Customer Behavior: The average rating is 3.9, indicating room for improvement in customer satisfaction.
+-Customer Behavior: The average rating is 3.9, indicating room for improvement in customer satisfaction.
 
 
 ## Final Conclusion
