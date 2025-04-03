@@ -3,5 +3,7 @@ I make a Blinkit Data Analysis Dashboard using Power BI that visualizes key metr
 ## Dataset Used
 - <a href="https://github.com/Subhajit2163/BLINKIT-_powerBI_dashboard_project/blob/main/BlinkIT%20Grocery%20Data%20(1).xlsx">dataset </a>
 ## Dashboard Interaction
-- <a href="https://github.com/Subhajit2163/BLINKIT-_powerBI_dashboard_project/blob/main/Screenshot%202025-04-03%20223639.png">dataset </a>
-- 
+- <a href="https://github.com/Subhajit2163/BLINKIT-_powerBI_dashboard_project/blob/main/Screenshot%202025-04-03%20223639.png">view Dashboard </a>
+## Dashboard
+![Uploading Screenshot 2025-04-03 223639.png…]()
+
