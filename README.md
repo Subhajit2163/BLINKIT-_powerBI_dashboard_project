@@ -1,1 +1,1 @@
-# BLINKIT-_powerBI_dashboard_project
+# BLINKIT_powerBI_dashboard_project
